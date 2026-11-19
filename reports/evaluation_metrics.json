@@ -1,0 +1,10 @@
+{
+    "student": "Sheikh Kamran Yasir Hussain",
+    "student_id": "123626",
+    "batch": "B1",
+    "year": 2026,
+    "dataset_rows": 150,
+    "cv_mean_accuracy": 0.9067,
+    "cv_std_accuracy": 0.0389,
+    "test_accuracy": 0.9667
+}

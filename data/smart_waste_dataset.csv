@@ -1,0 +1,151 @@
+item_type,material,weight_grams,is_recyclable,waste_category
+PET Water Bottle,Plastic,22,Yes,Dry/Recyclable
+Soda Aluminum Can,Metal,15,Yes,Dry/Recyclable
+Daily Newspaper,Paper,110,Yes,Dry/Recyclable
+Corrugated Cardboard Box,Cardboard,340,Yes,Dry/Recyclable
+Glass Jam Jar,Glass,260,Yes,Dry/Recyclable
+Aseptic Milk Carton,Cardboard,38,Yes,Dry/Recyclable
+Shampoo HDPE Bottle,Plastic,45,Yes,Dry/Recyclable
+Tin Food Can,Metal,55,Yes,Dry/Recyclable
+Office Printer Paper,Paper,15,Yes,Dry/Recyclable
+Cereal Box,Cardboard,85,Yes,Dry/Recyclable
+Glass Soda Bottle,Glass,310,Yes,Dry/Recyclable
+Detergent Jug,Plastic,120,Yes,Dry/Recyclable
+Clean Aluminum Foil Tray,Metal,28,Yes,Dry/Recyclable
+Glossy Magazine,Paper,180,Yes,Dry/Recyclable
+Shipping Carton,Cardboard,450,Yes,Dry/Recyclable
+Olive Oil Glass Bottle,Glass,420,Yes,Dry/Recyclable
+Yogurt Tub (PP),Plastic,18,Yes,Dry/Recyclable
+Steel Soup Can,Metal,62,Yes,Dry/Recyclable
+Paper Grocery Bag,Paper,35,Yes,Dry/Recyclable
+Egg Carton (Pulp),Cardboard,50,Yes,Dry/Recyclable
+Juice Glass Bottle,Glass,290,Yes,Dry/Recyclable
+Plastic Food Container,Plastic,40,Yes,Dry/Recyclable
+Deodorant Spray Can (Empty),Metal,48,Yes,Dry/Recyclable
+Notebook Pages,Paper,95,Yes,Dry/Recyclable
+Shoe Box,Cardboard,210,Yes,Dry/Recyclable
+Pickle Glass Jar,Glass,240,Yes,Dry/Recyclable
+Cold Drink Bottle,Plastic,30,Yes,Dry/Recyclable
+Metal Bottle Cap,Metal,3,Yes,Dry/Recyclable
+Envelopes (Windowless),Paper,12,Yes,Dry/Recyclable
+Pizza Box Lid (Clean),Cardboard,130,Yes,Dry/Recyclable
+Copper Wire Scrap,Metal,75,Yes,Dry/Recyclable
+Cardboard Tube Roll,Cardboard,25,Yes,Dry/Recyclable
+Glass Sauce Bottle,Glass,275,Yes,Dry/Recyclable
+HDPE Milk Jug,Plastic,65,Yes,Dry/Recyclable
+Kraft Paper Wrap,Paper,42,Yes,Dry/Recyclable
+Banana Peel,Organic,105,No,Wet/Organic
+Apple Core,Organic,80,No,Wet/Organic
+Leftover Cooked Rice,Organic,240,No,Wet/Organic
+Used Tea Leaves,Organic,20,No,Wet/Organic
+Potato Peels,Organic,160,No,Wet/Organic
+Orange Rind,Organic,65,No,Wet/Organic
+Coffee Grounds,Organic,45,No,Wet/Organic
+Eggshells,Organic,30,No,Wet/Organic
+Stale Bread,Organic,120,No,Wet/Organic
+Watermelon Rind,Organic,380,No,Wet/Organic
+Onion Skins,Organic,25,No,Wet/Organic
+Wilted Lettuce,Organic,90,No,Wet/Organic
+Mango Seed & Peel,Organic,140,No,Wet/Organic
+Spoiled Curry,Organic,310,No,Wet/Organic
+Dry Garden Leaves,Organic,55,No,Wet/Organic
+Coconut Shell (Tender),Organic,450,No,Wet/Organic
+Corn Cob,Organic,115,No,Wet/Organic
+Tomato Scraps,Organic,75,No,Wet/Organic
+Flower Petals,Organic,40,No,Wet/Organic
+Lemon Squeeze,Organic,35,No,Wet/Organic
+Leftover Roti,Organic,85,No,Wet/Organic
+Carrot Tops,Organic,50,No,Wet/Organic
+Avocado Pit & Skin,Organic,95,No,Wet/Organic
+Fish Bones,Organic,60,No,Wet/Organic
+Chicken Bones,Organic,110,No,Wet/Organic
+Cucumber Peels,Organic,70,No,Wet/Organic
+Spoiled Milk Curds,Organic,200,No,Wet/Organic
+Sugarcane Bagasse,Organic,190,No,Wet/Organic
+Pumpkin Seeds & Pulp,Organic,130,No,Wet/Organic
+Papaya Peel,Organic,125,No,Wet/Organic
+Old Android Smartphone,Electronic,185,Yes,E-Waste
+Broken USB-C Charger,Electronic,65,Yes,E-Waste
+Frayed Charging Cable,Electronic,35,Yes,E-Waste
+Dead Wired Earphones,Electronic,22,Yes,E-Waste
+Old Optical Mouse,Electronic,95,Yes,E-Waste
+Broken Keyboard,Electronic,480,Yes,E-Waste
+Damaged Power Bank,Electronic,240,Yes,E-Waste
+Old Wi-Fi Router,Electronic,320,Yes,E-Waste
+Dead Smartwatch,Electronic,50,Yes,E-Waste
+Broken Calculator,Electronic,110,Yes,E-Waste
+Old Feature Phone,Electronic,115,Yes,E-Waste
+Faulty Laptop Adapter,Electronic,290,Yes,E-Waste
+Damaged Bluetooth Speaker,Electronic,360,Yes,E-Waste
+Old Pen Drive,Electronic,14,Yes,E-Waste
+Broken Remote Control,Electronic,85,Yes,E-Waste
+Dead LED Bulb,Electronic,60,Yes,E-Waste
+Old Hard Drive,Electronic,410,Yes,E-Waste
+Broken Hair Dryer,Electronic,460,Yes,E-Waste
+Faulty Extension Cord,Electronic,270,Yes,E-Waste
+Old Webcam,Electronic,75,Yes,E-Waste
+Damaged RAM Stick,Electronic,20,Yes,E-Waste
+Broken Headphones,Electronic,210,Yes,E-Waste
+Old Set-Top Box,Electronic,390,Yes,E-Waste
+Dead Digital Watch,Electronic,40,Yes,E-Waste
+Faulty Electric Kettle Base,Electronic,340,Yes,E-Waste
+Old MotherBoard PCB,Electronic,450,Yes,E-Waste
+Broken HDMI Cable,Electronic,55,Yes,E-Waste
+Dead Trimmer,Electronic,175,Yes,E-Waste
+Used AA Alkaline Battery,Metal,24,No,Hazardous
+Expired Antibiotic Strips,Chemical,35,No,Hazardous
+Half-Empty Paint Tin,Metal,520,No,Hazardous
+Broken Mercury Thermometer,Glass,28,No,Hazardous
+Empty Mosquito Spray Can,Metal,95,No,Hazardous
+Used Engine Oil Bottle,Plastic,480,No,Hazardous
+Expired Cough Syrup Bottle,Glass,160,No,Hazardous
+Button Cell Battery,Metal,4,No,Hazardous
+Pesticide Container,Plastic,340,No,Hazardous
+Used Syringe (Capped),Plastic,15,No,Hazardous
+Nail Polish Bottle,Glass,45,No,Hazardous
+Bleach Cleaner Bottle,Plastic,290,No,Hazardous
+CFL Tube Light,Glass,140,No,Hazardous
+Expired Ointment Tube,Metal,30,No,Hazardous
+Rat Poison Packet,Chemical,50,No,Hazardous
+Lithium-Ion Swollen Cell,Metal,65,No,Hazardous
+Toilet Acid Bottle,Plastic,410,No,Hazardous
+Aerosol Glue Can,Metal,180,No,Hazardous
+Expired Eye Drops,Plastic,20,No,Hazardous
+Solvent Thinner Can,Metal,390,No,Hazardous
+Expired Vitamin Tablets,Chemical,40,No,Hazardous
+Fluorescent Lamp Tube,Glass,195,No,Hazardous
+Insecticide Spray Bottle,Plastic,260,No,Hazardous
+Lead-Acid Mini Battery,Metal,550,No,Hazardous
+Chemical Lab Reagent Vial,Chemical,85,No,Hazardous
+Expired Antifungal Cream,Chemical,32,No,Hazardous
+Nail Polish Remover Bottle,Plastic,110,No,Hazardous
+Potato Chip Packet,Multi-layer Plastic,12,No,General/Landfill
+Used Facial Tissue,Paper,5,No,General/Landfill
+Styrofoam Coffee Cup,Plastic,9,No,General/Landfill
+Broken Ceramic Mug,Ceramic,310,No,General/Landfill
+Candy Wrapper,Multi-layer Plastic,4,No,General/Landfill
+Greasy Pizza Box Base,Cardboard,165,No,General/Landfill
+Used Paper Napkin,Paper,6,No,General/Landfill
+Broken Porcelain Plate,Ceramic,390,No,General/Landfill
+Biscuit Wrapper,Multi-layer Plastic,8,No,General/Landfill
+Disposable Plastic Spoon,Plastic,5,No,General/Landfill
+Used Cotton Swabs,Organic,3,No,General/Landfill
+Plastic Drinking Straw,Plastic,2,No,General/Landfill
+Shattered Drinking Glass,Glass,190,No,General/Landfill
+Instant Noodle Wrapper,Multi-layer Plastic,10,No,General/Landfill
+Old Toothbrush,Plastic,18,No,General/Landfill
+Pencil Shavings,Organic,7,No,General/Landfill
+Thermocol Packaging Piece,Plastic,25,No,General/Landfill
+Used Band-Aid,Multi-layer Plastic,3,No,General/Landfill
+Broken Terracotta Pot,Ceramic,480,No,General/Landfill
+Tetra Pak Straw Wrapper,Plastic,1,No,General/Landfill
+Laminated Paper Pouch,Multi-layer Plastic,14,No,General/Landfill
+Dustpan Sweepings,Organic,65,No,General/Landfill
+Old Ballpoint Pen,Plastic,11,No,General/Landfill
+Used Wet Wipes,Multi-layer Plastic,15,No,General/Landfill
+Broken Mirror Shard,Glass,150,No,General/Landfill
+Chocolate Foil Wrapper,Multi-layer Plastic,5,No,General/Landfill
+Broken Clay Diya,Ceramic,85,No,General/Landfill
+Soiled Paper Plate,Paper,18,No,General/Landfill
+Used Rubber Band,Plastic,2,No,General/Landfill
+Disposable Razor,Plastic,16,No,General/Landfill

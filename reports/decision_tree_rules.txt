@@ -1,0 +1,34 @@
+|--- cat__is_recyclable_Yes <= 0.50
+|   |--- cat__material_Organic <= 0.50
+|   |   |--- num__weight_grams <= 19.00
+|   |   |   |--- cat__item_type_Used Syringe (Capped) <= 0.50
+|   |   |   |   |--- cat__item_type_Button Cell Battery <= 0.50
+|   |   |   |   |   |--- class: General/Landfill
+|   |   |   |   |--- cat__item_type_Button Cell Battery >  0.50
+|   |   |   |   |   |--- class: Hazardous
+|   |   |   |--- cat__item_type_Used Syringe (Capped) >  0.50
+|   |   |   |   |--- class: Hazardous
+|   |   |--- num__weight_grams >  19.00
+|   |   |   |--- cat__material_Ceramic <= 0.50
+|   |   |   |   |--- cat__material_Cardboard <= 0.50
+|   |   |   |   |   |--- cat__item_type_Shattered Drinking Glass <= 0.50
+|   |   |   |   |   |   |--- class: Hazardous
+|   |   |   |   |   |--- cat__item_type_Shattered Drinking Glass >  0.50
+|   |   |   |   |   |   |--- class: General/Landfill
+|   |   |   |   |--- cat__material_Cardboard >  0.50
+|   |   |   |   |   |--- class: General/Landfill
+|   |   |   |--- cat__material_Ceramic >  0.50
+|   |   |   |   |--- class: General/Landfill
+|   |--- cat__material_Organic >  0.50
+|   |   |--- num__weight_grams <= 13.50
+|   |   |   |--- class: General/Landfill
+|   |   |--- num__weight_grams >  13.50
+|   |   |   |--- cat__item_type_Dustpan Sweepings <= 0.50
+|   |   |   |   |--- class: Wet/Organic
+|   |   |   |--- cat__item_type_Dustpan Sweepings >  0.50
+|   |   |   |   |--- class: General/Landfill
+|--- cat__is_recyclable_Yes >  0.50
+|   |--- cat__material_Electronic <= 0.50
+|   |   |--- class: Dry/Recyclable
+|   |--- cat__material_Electronic >  0.50
+|   |   |--- class: E-Waste
