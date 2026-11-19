@@ -7,7 +7,7 @@
 
 | Student Name | Course | Semester | Roll / ID | Batch | Academic Year | Project Domain |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Sheikh Kamran Yasir Hussain** | **1st** | `BTech CSE (AI & ML) with EY` | `261001220149` | `B1` | `2026` | AI / Machine Learning |
+| **Sheikh Kamran Yasir Hussain** | `BTech CSE (AI & ML) with EY` | `1st` | `261001220149` | `B1` | `2026` | AI / Machine Learning |
 
 ---
 
