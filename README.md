@@ -5,9 +5,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-FF4B4B?logo=streamlit&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-96.67%25-brightgreen)
 
-| Student Name | Course | Roll / ID | Batch | Academic Year | Project Domain |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Sheikh Kamran Yasir Hussain** | `BTech CSE (AI & ML) with EY` | `261001220149` | `B1` | `2026` | AI / Machine Learning |
+| Student Name | Course | Semester | Roll / ID | Batch | Academic Year | Project Domain |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sheikh Kamran Yasir Hussain** | **1st** | `BTech CSE (AI & ML) with EY` | `261001220149` | `B1` | `2026` | AI / Machine Learning |
 
 ---
 
