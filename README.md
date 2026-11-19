@@ -7,7 +7,7 @@
 
 | Student Name | Roll / ID | Batch | Academic Year | Project Domain |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sheikh Kamran Yasir Hussain** | `123626` | `B1` | `2026` | AI / Machine Learning |
+| **Sheikh Kamran Yasir Hussain** | `261001220149` | `B1` | `2026` | AI / Machine Learning |
 
 ---
 
